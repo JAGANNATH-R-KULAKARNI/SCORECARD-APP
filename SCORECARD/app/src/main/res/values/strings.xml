@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SCORE CARD</string>
+    <string name="team_a">TEAM A</string>
+    <string name="team_b">TEAM B</string>
+    <string name="_0">0</string>
+    <string name="out">OUT</string>
+
+    <string name="todo">TODO</string>
+</resources>
